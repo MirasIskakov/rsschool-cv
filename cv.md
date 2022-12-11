@@ -13,6 +13,7 @@ Education
 :   **JavaScript/Front-end Course**: The Rolling Scopes
 
 2016 
+
 :   **Private Pilot License**: State Aviation Center
 
 
