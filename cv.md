@@ -2,8 +2,8 @@ Miras Iskakov
 ==============
 Software Engineer
 ----------------          -----------------------
-Email -                     iskakov91633@gmail.com
-GitHub - https://github.com/MirasIskakov
+- Email - iskakov91633@gmail.com
+- [GitHub](https://github.com/MirasIskakov) - Miras Iskakov
 
 ----------------          -----------------------
 
@@ -30,3 +30,5 @@ Education
 - _Kazakh - Native;_
 - _English - B1 - Intermediate;_
 - _Russian - C1 - Advanced._
+
+
